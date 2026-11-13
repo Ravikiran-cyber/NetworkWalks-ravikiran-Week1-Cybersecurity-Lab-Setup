@@ -73,35 +73,35 @@ Shows the Kali Linux virtual machine registered in Oracle VirtualBox Manager.
 
 ![VirtualBox Manager](https://github.com/Ravikiran-cyber/NetworkWalks-ravikiran-Week1-Cybersecurity-Lab-Setup/blob/2562a69c2b66b5d1ab01544ab581d9eeea84ab32/file3.png)
 
-### 2. Kali Linux Virtual Machine
-Shows Kali Linux running inside Oracle VirtualBox.
-
-![Kali Linux VM](screenshots/02-kali-linux-vm.png)
-
-### 3. Kali Linux Desktop
+### 2. Kali Linux Desktop
 Shows the Kali Linux desktop environment after successful login.
 
 ![Kali Linux Desktop](screenshots/03-kali-linux-desktop.png)
 
-### 4. Kali Linux File Manager
+### 3. Kali Linux File Manager
 Shows the Kali Linux file system and directory structure.
 
 ![Kali Linux File Manager](screenshots/04-kali-file-manager.png)
 
-### 5. Kali Linux Network Adapter Settings
+### 4. Kali Linux Network Adapter Settings
 Shows the virtual network adapter settings, including Adapters 1, 2, 3, and 4.
 
 ![Network Adapter Settings](screenshots/05-network-adapter-settings.png)
 
-### 6. NAT Network Configuration
+### 5. NAT Network Configuration
 Shows the NAT Network configuration options available in Oracle VirtualBox.
 
 ![NAT Network](screenshots/06-nat-network.png)
 
-### 7. Host-Only Network Configuration
+### 6. Host-Only Network Configuration
 Shows the Host-Only Network settings in Oracle VirtualBox.
 
 ![Host Only Network](screenshots/07-host-only-network.png)
+
+### 7.wired connection settings in kali linux
+shows the wired internet connection settings in kali linux.
+
+![wired connection] ()
 
 ## 🐞 Challenges Faced
 
