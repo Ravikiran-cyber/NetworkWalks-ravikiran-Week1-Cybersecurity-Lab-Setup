@@ -101,7 +101,7 @@ Shows the Host-Only Network settings in Oracle VirtualBox.
 ### 7.wired connection settings in kali linux
 shows the wired internet connection settings in kali linux.
 
-![wired connection] ()
+![wired connection] (https://github.com/Ravikiran-cyber/NetworkWalks-ravikiran-Week1-Cybersecurity-Lab-Setup/blob/3927e0036fecffbfe36d3f0a161fb35146d93ee4/Screenshot_2026-11-12_04_57_02.png)
 
 ## 🐞 Challenges Faced
 
