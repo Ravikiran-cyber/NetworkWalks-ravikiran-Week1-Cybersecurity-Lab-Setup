@@ -71,7 +71,7 @@ The following screenshots show my actual lab setup and configuration activities.
 ### 1. Oracle VirtualBox Manager
 Shows the Kali Linux virtual machine registered in Oracle VirtualBox Manager.
 
-![VirtualBox Manager](screenshots/01-virtualbox-manager.png)
+![VirtualBox Manager](https://github.com/Ravikiran-cyber/NetworkWalks-ravikiran-Week1-Cybersecurity-Lab-Setup/blob/2562a69c2b66b5d1ab01544ab581d9eeea84ab32/file3.png)
 
 ### 2. Kali Linux Virtual Machine
 Shows Kali Linux running inside Oracle VirtualBox.
