@@ -76,27 +76,27 @@ Shows the Kali Linux virtual machine registered in Oracle VirtualBox Manager.
 ### 2. Kali Linux Desktop
 Shows the Kali Linux desktop environment after successful login.
 
-![Kali Linux Desktop](screenshots/03-kali-linux-desktop.png)
+![Kali Linux Desktop](https://github.com/Ravikiran-cyber/NetworkWalks-ravikiran-Week1-Cybersecurity-Lab-Setup/blob/aa320a7c2df899bf83506ceb7ea67a1fa4696ec9/Screenshot_2026-11-12_03_14_42.png)
 
 ### 3. Kali Linux File Manager
 Shows the Kali Linux file system and directory structure.
 
-![Kali Linux File Manager](screenshots/04-kali-file-manager.png)
+![Kali Linux File Manager](https://github.com/Ravikiran-cyber/NetworkWalks-ravikiran-Week1-Cybersecurity-Lab-Setup/blob/aa320a7c2df899bf83506ceb7ea67a1fa4696ec9/file%201.png)
 
 ### 4. Kali Linux Network Adapter Settings
 Shows the virtual network adapter settings, including Adapters 1, 2, 3, and 4.
 
-![Network Adapter Settings](screenshots/05-network-adapter-settings.png)
+![Network Adapter Settings](https://github.com/Ravikiran-cyber/NetworkWalks-ravikiran-Week1-Cybersecurity-Lab-Setup/blob/aa320a7c2df899bf83506ceb7ea67a1fa4696ec9/file4.png)
 
 ### 5. NAT Network Configuration
 Shows the NAT Network configuration options available in Oracle VirtualBox.
 
-![NAT Network](screenshots/06-nat-network.png)
+![NAT Network](https://github.com/Ravikiran-cyber/NetworkWalks-ravikiran-Week1-Cybersecurity-Lab-Setup/blob/aa320a7c2df899bf83506ceb7ea67a1fa4696ec9/file5.png)
 
 ### 6. Host-Only Network Configuration
 Shows the Host-Only Network settings in Oracle VirtualBox.
 
-![Host Only Network](screenshots/07-host-only-network.png)
+![Host Only Network](https://github.com/Ravikiran-cyber/NetworkWalks-ravikiran-Week1-Cybersecurity-Lab-Setup/blob/aa320a7c2df899bf83506ceb7ea67a1fa4696ec9/file5.png)
 
 ### 7.wired connection settings in kali linux
 shows the wired internet connection settings in kali linux.
