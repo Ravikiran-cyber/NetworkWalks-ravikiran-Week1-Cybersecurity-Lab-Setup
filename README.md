@@ -91,7 +91,7 @@ Shows the virtual network adapter settings, including Adapters 1, 2, 3, and 4.
 ### 5. NAT Network Configuration
 Shows the NAT Network configuration options available in Oracle VirtualBox.
 
-![NAT Network](https://github.com/Ravikiran-cyber/NetworkWalks-ravikiran-Week1-Cybersecurity-Lab-Setup/blob/aa320a7c2df899bf83506ceb7ea67a1fa4696ec9/file5.png)
+![NAT Network](https://github.com/Ravikiran-cyber/NetworkWalks-ravikiran-Week1-Cybersecurity-Lab-Setup/blob/ab61c374a0259ddb8819572bbf143bef7d6f9e6f/file2.png)
 
 ### 6. Host-Only Network Configuration
 Shows the Host-Only Network settings in Oracle VirtualBox.
@@ -101,7 +101,7 @@ Shows the Host-Only Network settings in Oracle VirtualBox.
 ### 7.wired connection settings in kali linux
 shows the wired internet connection settings in kali linux.
 
-![wired connection] (https://github.com/Ravikiran-cyber/NetworkWalks-ravikiran-Week1-Cybersecurity-Lab-Setup/blob/3927e0036fecffbfe36d3f0a161fb35146d93ee4/Screenshot_2026-11-12_04_57_02.png)
+![wired connection](https://github.com/Ravikiran-cyber/NetworkWalks-ravikiran-Week1-Cybersecurity-Lab-Setup/blob/3927e0036fecffbfe36d3f0a161fb35146d93ee4/Screenshot_2026-11-12_04_57_02.png)
 
 ## 🐞 Challenges Faced
 
